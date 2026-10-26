@@ -1,0 +1,11 @@
+Method,Accuracy,Balanced acc.,Recall (old),Precision (old),F1 (old),PR-AUC,ROC-AUC
+Logistic Regression — baseline,0.914,0.581,0.178,0.52,0.265,0.478,0.902
+Logistic Regression — class weighting,0.837,0.83,0.822,0.328,0.469,0.469,0.905
+Logistic Regression — random undersampling,0.816,0.825,0.836,0.3,0.442,0.491,0.903
+Logistic Regression — random oversampling,0.831,0.821,0.808,0.317,0.456,0.455,0.902
+Logistic Regression — smote,0.854,0.827,0.795,0.352,0.487,0.464,0.903
+Random Forest — baseline,0.923,0.617,0.247,0.667,0.36,0.472,0.887
+Random Forest — class weighting,0.897,0.739,0.548,0.43,0.482,0.454,0.886
+Random Forest — random undersampling,0.8,0.822,0.849,0.284,0.426,0.412,0.894
+Random Forest — random oversampling,0.907,0.664,0.37,0.458,0.409,0.464,0.886
+Random Forest — smote,0.88,0.711,0.507,0.366,0.425,0.406,0.881
