@@ -15,6 +15,6 @@ with prompts and screenshots of answers. Read Week 5 and Week 6 lecture material
 
 ## Checklist before Week 8
 - [ ] Run the Q2 notebook, check numbers on slides match `Results/`
-- [ ] Complete the Kaggle tutorial + exercise yourself; screenshot for Q5 slide
+- [x] Complete the Kaggle tutorial + exercise (done 26 Oct; screenshots in Results/)
 - [ ] Add AI prompt/answer screenshots to the declaration slide
 - [ ] Rehearse Q4 (~10 min) and Q5 (~5 min)
